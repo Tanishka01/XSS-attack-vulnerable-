@@ -49,7 +49,7 @@ function formSubmitHandler(event) {
   renderMessages(event);
 }
 function navigateToPage1() {
-  window.location.href = 'http://127.0.0.1:5500/xss.html';
+  window.location.href = 'https://tanishka01.github.io/XSS-attack-secure-/';
 }
 
 userMessageForm.addEventListener('submit', formSubmitHandler);
