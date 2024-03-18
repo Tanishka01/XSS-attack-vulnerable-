@@ -1,5 +1,5 @@
-Link to the vulnerable webpage:
+Link to the secure webpage:
 https://tanishka01.github.io/XSS-attack-secure-/
 
-Link to the vulnerable source code:
+Link to the secure source code:
 https://github.com/Tanishka01/XSS-attack-secure-
